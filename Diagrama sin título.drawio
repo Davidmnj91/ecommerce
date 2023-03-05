@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T16:58:58.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="dVTsBDrdGHEDyvaK9DA2" version="20.8.20" type="github">
-  <diagram name="Página-1" id="11RcOUhjewewihDyenK6">
-    <mxGraphModel dx="2872" dy="1106" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-03-05T17:04:00.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="t6FSm3LLwNsYit_jOyko" version="20.8.20" type="github">
+  <diagram name="Overview" id="11RcOUhjewewihDyenK6">
+    <mxGraphModel dx="2872" dy="1506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,6 +87,21 @@
         </mxCell>
         <mxCell id="3zyel6Lu_8X5XFJ0s7aJ-39" value="Subscriptions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="887.5" y="492" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3zyel6Lu_8X5XFJ0s7aJ-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="143.5" y="-314" width="405" height="388.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3zyel6Lu_8X5XFJ0s7aJ-41" value="App" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="218.5" y="-222.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3zyel6Lu_8X5XFJ0s7aJ-42" value="Fronts" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="303.5" y="-293.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3zyel6Lu_8X5XFJ0s7aJ-43" value="Web" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="386.5" y="-222.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3zyel6Lu_8X5XFJ0s7aJ-45" value="Backoffice" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="303.5" y="-95.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
