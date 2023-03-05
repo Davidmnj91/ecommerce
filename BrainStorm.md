@@ -5,6 +5,7 @@ We decided to build an ecommerce platform to test and compare tecnologies and pa
 
 ## Techonologies
 - Gradle
+- TDD
 - Go 
 - Functional DDD
 - Lambdas
@@ -13,7 +14,6 @@ We decided to build an ecommerce platform to test and compare tecnologies and pa
 - Neo4j
 - Webauthn (Biomertric auth)
 - Chatbot (IA)
-
 
 ## Bussiness
 - Inventory
